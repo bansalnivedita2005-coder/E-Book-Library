@@ -1,1 +1,4 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 26899d44e97f4e08d1acc0d73e8dcc13d0a164e2 SouravTomar1 <isourav2710@gmail.com> 1774381322 +0530	commit (initial): first commit
+26899d44e97f4e08d1acc0d73e8dcc13d0a164e2 0000000000000000000000000000000000000000 SouravTomar1 <isourav2710@gmail.com> 1774381322 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 26899d44e97f4e08d1acc0d73e8dcc13d0a164e2 SouravTomar1 <isourav2710@gmail.com> 1774381322 +0530	Branch: renamed refs/heads/master to refs/heads/main
+26899d44e97f4e08d1acc0d73e8dcc13d0a164e2 aa045f74a12e4189155c2f8bff63dc32c526ee9b SouravTomar1 <isourav2710@gmail.com> 1774381399 +0530	commit: Added full AI Book Recommender project
